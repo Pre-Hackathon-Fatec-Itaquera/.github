@@ -15,7 +15,7 @@ Curso preparatório de alunos para alunos, criado para dar a todo mundo, indepen
 | Trilha | Repositório | Conteúdo em vídeo |
 |---|---|---|
 | PHP Iniciante | [trilha-iniciante-php](https://github.com/Pre-Hackton-Fatec-Itaquera/trilha-iniciante-php) | [Playlist](https://www.youtube.com/playlist?list=PLC2N4JRAGB5E) |
-| Python Intermediário | [trilha-pythaon](https://github.com/Pre-Hackton-Fatec-Itaquera/trilha-pythaon) | — |
+| Python Intermediário | [trilha-pythaon](https://github.com/Pre-Hackton-Fatec-Itaquera/trilha-pythaon) | [Playlist](https://www.youtube.com/playlist?list=PLWvmLXSV-7jY) |
 | JavaScript Full-Stack Intermediário — Frontend | [Javascript-frontend-intermediario](https://github.com/Pre-Hackton-Fatec-Itaquera/Javascript-frontend-intermediario) | [Playlist](https://www.youtube.com/playlist?list=PLYE29tfcrWEk) |
 | JavaScript Full-Stack Intermediário — Backend | [Javascript-backend-intermediario](https://github.com/Pre-Hackton-Fatec-Itaquera/Javascript-backend-intermediario) | [Playlist](https://www.youtube.com/playlist?list=PLYE29tfcrWEk) |
 
@@ -29,9 +29,9 @@ Um resumo rápido de cada uma:
 
 ## 📚 Outras trilhas do Pré-Hackathon
 
-Nem todo o conteúdo do Pré-Hackathon está organizado em repositório. As trilhas abaixo têm aula em vídeo, mas sem código associado nesta organização:
-
-- **Engenharia de Prompt** — *Construindo um Frontend com IA sem parecer feito por IA*. [Playlist](https://www.youtube.com/playlist?list=PLEWa95kG4L1s)
+Nem todo o conteúdo do Pré-Hackathon está organizado em repositório. As trilhas abaixo têm aula em vídeo, mas sem código associado nesta organização: [Playlist](https://www.youtube.com/playlist?list=PLEWa95kG4L1s)
+Assuntos
+- **Engenharia de Prompt** — *Construindo um Frontend com IA sem parecer feito por IA*. 
 - **Planejamento de Software e System Design**
 - E outras trilhas complementares do curso.
 
